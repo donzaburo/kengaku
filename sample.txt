@@ -7,4 +7,4 @@ nogenoge
 =======
 mage.
 a
->>>>>>> add-new-file
+
