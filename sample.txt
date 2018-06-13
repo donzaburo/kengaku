@@ -1,5 +1,10 @@
 hoge.
 hoge.
+<<<<<<< HEAD
 noge.
 jio
 nogenoge
+=======
+mage.
+a
+>>>>>>> add-new-file
