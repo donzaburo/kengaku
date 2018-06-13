@@ -1,9 +1,0 @@
-diff a/sample.txt b/sample.txt	(rejected hunks)
-@@ -7,4 +7,7 @@
- =======
- mage.
- a
-+<<<<<<< HEAD
-+>>>>>>> add-new-file
-+=======
- >>>>>>> add-new-file
